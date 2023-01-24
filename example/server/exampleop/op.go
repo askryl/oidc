@@ -10,8 +10,8 @@ import (
 	"github.com/gorilla/mux"
 	"golang.org/x/text/language"
 
-	"github.com/zitadel/oidc/example/server/storage"
-	"github.com/zitadel/oidc/pkg/op"
+	"github.com/askryl/oidc/example/server/storage"
+	"github.com/askryl/oidc/pkg/op"
 )
 
 const (
