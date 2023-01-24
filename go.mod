@@ -1,4 +1,4 @@
-module github.com/zitadel/oidc
+module github.com/askryl/oidc
 
 go 1.15
 
